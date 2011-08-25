@@ -16,9 +16,7 @@ public class GithubtestprojActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
-        toast.show(); // hfjyp
-        toast.show();
- 
+        toast.show(); 
     }
     
   
