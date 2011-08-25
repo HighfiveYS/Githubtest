@@ -17,7 +17,7 @@ public class GithubtestprojActivity extends Activity {
         setContentView(R.layout.main);
         
         //erase posit
-        
+
     }
     
   
