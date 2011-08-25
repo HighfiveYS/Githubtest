@@ -17,7 +17,8 @@ public class GithubtestprojActivity extends Activity {
         setContentView(R.layout.main);
         
         toast.show(); // hfjyp
-        
+        toast.show();
+ 
     }
     
   
